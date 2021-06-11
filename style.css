@@ -1,0 +1,56 @@
+body{
+	background-color: rgba( 11, 9, 10, 1);
+	color:#FFCB47 ;
+	font-family: 'Kalam', cursive;
+	font-weight: lighter;
+	text-align: center;
+	margin: 0 auto;
+	list-style: none;
+}
+
+
+img{
+	width: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px black;
+    text-align: center;
+    padding: 10px;
+}
+h1{
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+	letter-spacing: 5px;	
+}
+h2{
+	color: rgb(255, 125, 0);
+	size: 10px;
+	font-family: 'Kalam', cursive;
+	font-size: large;
+}
+p{
+	color: lightyellow;
+}
+
+a{
+	text-decoration-line: none;
+	font-family: fantasy;
+	font-weight: lighter;
+	font-size: 15px;
+	color:rgb(239, 214, 172);
+	transition: color 0.3s ease;
+}
+
+a:hover{
+	color:rgb(196, 73, 0);
+}
+
+#bio{
+	background-color: rgba(20, 20, 20, 0.8);
+}
+
+
+.image-width{
+	width: 200px
+}
+
+
